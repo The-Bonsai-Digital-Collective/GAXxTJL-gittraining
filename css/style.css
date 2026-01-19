@@ -80,7 +80,7 @@ body {overflow-x:hidden;font-family:var(--header)}
  * Header section styles including navigation
 **/
 
-header {background-color:var(--black);padding:25px 0px 25px;z-index:50}
+header {background-color:red;padding:25px 0px 25px;z-index:50}
 .header-logo img {width:100%;height:auto}
 
 /**
